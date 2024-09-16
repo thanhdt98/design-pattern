@@ -1,4 +1,4 @@
-package com.thanhxv.strategy_pattern;
+package com.thanhxv.design_patterns.behavioral_patterns.strategy_pattern;
 
 import com.thanhxv.design_patterns.behavioral_patterns.strategy_pattern.*;
 import org.assertj.core.api.Assertions;
