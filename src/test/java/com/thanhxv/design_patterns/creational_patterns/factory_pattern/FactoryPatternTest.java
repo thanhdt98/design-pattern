@@ -1,4 +1,4 @@
-package com.thanhxv.factory_pattern;
+package com.thanhxv.design_patterns.creational_patterns.factory_pattern;
 
 import com.thanhxv.design_patterns.creational_patterns.factory_pattern.ShippingCostFactory;
 import com.thanhxv.design_patterns.creational_patterns.factory_pattern.ShippingCostStrategy;
