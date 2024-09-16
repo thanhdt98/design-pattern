@@ -1,5 +1,6 @@
 package com.thanhxv.strategy_pattern;
 
+import com.thanhxv.design_patterns.behavioral_patterns.strategy_pattern.*;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

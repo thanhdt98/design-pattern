@@ -1,5 +1,7 @@
 package com.thanhxv.factory_pattern;
 
+import com.thanhxv.design_patterns.creational_patterns.factory_pattern.ShippingCostFactory;
+import com.thanhxv.design_patterns.creational_patterns.factory_pattern.ShippingCostStrategy;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

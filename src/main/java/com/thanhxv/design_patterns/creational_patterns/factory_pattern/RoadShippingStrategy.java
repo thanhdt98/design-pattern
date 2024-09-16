@@ -1,4 +1,4 @@
-package com.thanhxv.factory_pattern;
+package com.thanhxv.design_patterns.creational_patterns.factory_pattern;
 
 public class RoadShippingStrategy implements ShippingCostStrategy {
     @Override

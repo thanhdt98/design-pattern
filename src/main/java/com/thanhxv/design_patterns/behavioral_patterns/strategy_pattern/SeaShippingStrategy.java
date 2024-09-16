@@ -1,4 +1,4 @@
-package com.thanhxv.factory_pattern;
+package com.thanhxv.design_patterns.behavioral_patterns.strategy_pattern;
 
 public class SeaShippingStrategy implements ShippingCostStrategy {
     @Override
